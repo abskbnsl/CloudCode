@@ -1,0 +1,119 @@
+.head a {
+    color: #fff;
+    transition: all 0.3s ease-in 0s;
+  }
+ .head .section{
+    
+        padding: 100px 0;
+      
+ }
+ 
+ .hero-area {
+    background-size: cover;
+    height:15vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+  }
+  .hero-area .block {
+    text-align:center;
+    z-index: 10;
+    position: absolute;
+top: 10%;
+bottom: 50%;
+left: 3%;
+right: 50%;
+  }
+  .block img{
+    z-index: 10;
+    position: absolute;
+top: 10%;
+bottom: 60%;
+left: 100%;
+width: 100%;
+height: auto;
+padding-left:20px;
+
+  }
+ 
+  .hero-area .block h1 {
+    font-size: 30px;
+    color:beige;
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 992px) {
+    .hero-area .block h1 {
+      font-size: 60px;
+    }
+  }
+  @media (max-width: 768px) {
+    .hero-area .block h1 {
+      font-size: 48px;
+    }
+  }
+  .hero-area .block p {
+    color: #fff;
+    font-size: 20px;
+    width: 70%;
+    margin: 0 auto;
+   
+  }
+  .hero-area .block .btn-transparent {
+    
+    border-color: #fff;
+    padding: 14px 30px;
+    font-size: 18px;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .btn{
+    display:flex;
+    justify-content:center;
+    margin-top: 100px;
+  }
+  
+  .overlay {
+    position: relative;
+    padding-top: 500px;
+  }
+  .overlay::before {
+    content: "";
+    background: rgba(0, 0, 0, 0.63);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    left: 0;
+  }
+
+  .btn {
+    background-color: transparent;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 0;
+    transition: all 0.3s ease-in 0s;
+    
+  }
+  .btn:focus {
+    color: #ddd;
+    box-shadow: none;
+  }
+  
+  .btn-transparent {
+    border: 1px solid #4e595f;
+  }
+  .btn-transparent:hover, .btn-transparent:focus {
+    background-color: #57cbcc;
+    border-color: #57cbcc !important;
+    color: #fff;
+  }
