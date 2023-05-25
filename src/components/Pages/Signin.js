@@ -76,7 +76,7 @@ export const Signin = (props) =>{
           <div className="form-group mt-3">
             <label>Full Name</label>
             <input
-              type="email"
+              type="text"
               className="form-control mt-1"
               placeholder="e.g Jane Doe"
             />
