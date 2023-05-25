@@ -14,7 +14,7 @@ export const Home = () => {
  		<p>CloudCode provides coding platform for frontend designers and developers. Build and test a website, show off your work, build test cases to learn and debug and find inspiration.</p>
        </div>
       <img src={logo} />
- 		<a href="/Signin" class="btn btn-transparent smooth-scroll">Sign up for free</a>
+ 		<a href="" class="btn btn-transparent smooth-scroll">Sign up for free</a>
  	</div>
  </section>
     </div>
