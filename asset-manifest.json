@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/CloudCode/static/css/main.15c45c8a.chunk.css",
+    "main.js": "/CloudCode/static/js/main.4e903a4d.chunk.js",
+    "main.js.map": "/CloudCode/static/js/main.4e903a4d.chunk.js.map",
+    "runtime-main.js": "/CloudCode/static/js/runtime-main.71ee15ff.js",
+    "runtime-main.js.map": "/CloudCode/static/js/runtime-main.71ee15ff.js.map",
+    "static/css/2.4835a29e.chunk.css": "/CloudCode/static/css/2.4835a29e.chunk.css",
+    "static/js/2.3e697df9.chunk.js": "/CloudCode/static/js/2.3e697df9.chunk.js",
+    "static/js/2.3e697df9.chunk.js.map": "/CloudCode/static/js/2.3e697df9.chunk.js.map",
+    "static/js/3.f52184db.chunk.js": "/CloudCode/static/js/3.f52184db.chunk.js",
+    "static/js/3.f52184db.chunk.js.map": "/CloudCode/static/js/3.f52184db.chunk.js.map",
+    "index.html": "/CloudCode/index.html",
+    "static/css/2.4835a29e.chunk.css.map": "/CloudCode/static/css/2.4835a29e.chunk.css.map",
+    "static/css/main.15c45c8a.chunk.css.map": "/CloudCode/static/css/main.15c45c8a.chunk.css.map",
+    "static/js/2.3e697df9.chunk.js.LICENSE.txt": "/CloudCode/static/js/2.3e697df9.chunk.js.LICENSE.txt",
+    "static/media/guide-img.02b06ff3.jpg": "/CloudCode/static/media/guide-img.02b06ff3.jpg",
+    "static/media/guide_bg.0022c5e0.jpg": "/CloudCode/static/media/guide_bg.0022c5e0.jpg",
+    "static/media/hero-area.bc8874b6.jpg": "/CloudCode/static/media/hero-area.bc8874b6.jpg",
+    "static/media/home-img.c348c57c.jpg": "/CloudCode/static/media/home-img.c348c57c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ee15ff.js",
+    "static/css/2.4835a29e.chunk.css",
+    "static/js/2.3e697df9.chunk.js",
+    "static/css/main.15c45c8a.chunk.css",
+    "static/js/main.4e903a4d.chunk.js"
+  ]
+}
